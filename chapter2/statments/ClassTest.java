@@ -16,6 +16,13 @@ public class ClassTest {
         to.tenaryOperator();
         to.ifElseOperators();
 
+        System.out.println();
+        SwitchCase sc =  new SwitchCase();
+        sc.tiypeOfBait();
+        System.out.println();
+        String fish = sc.generateRandomFish();
+        System.out.println(fish);
+
     }
 
 }
