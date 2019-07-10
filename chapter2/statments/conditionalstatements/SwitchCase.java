@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter2.statments;
+package com.ocaj.exam.tutorial.chapter2.statments.conditionalstatements;
 
 import java.awt.*;
 import java.util.Random;
