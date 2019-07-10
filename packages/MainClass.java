@@ -1,6 +1,6 @@
 
 //Package Statement
-package com.ocaj.exam.tutorial.chapter1.packages;
+package com.ocaj.exam.tutorial.packages;
 
 /* Imports class ArrayLis from  the java.util package */
 import java.io.Console;

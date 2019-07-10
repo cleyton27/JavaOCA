@@ -11,6 +11,11 @@ public class ClassTest {
 
         wrapperBoolean.checkIt();
 
+
+        TernaryOperator to = new TernaryOperator();
+        to.tenaryOperator();
+        to.ifElseOperators();
+
     }
 
 }
