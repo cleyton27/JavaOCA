@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter3;
+package com.ocaj.exam.tutorial.chapter3.operators;
 
 public class NegationOperatorWithRelationalAndLogicalOperators {
     public static void main(String[] args) {
