@@ -17,5 +17,18 @@ public class EqualityOperators {
         System.out.println(12F == 12f);
         // double comparison, prints false
         System.out.println(12D != 12d);
+
+        //Comparison between objects
+
+        System.out.println();
+        Object a = new Object();
+        Object b = new Object();
+        Object c = b;
+        // Prints false, different reference
+        System.out.println(a == b);
+        // Prints false, different reference
+        System.out.println(a ==c);
+        // Prints true, same reference
+        System.out.println(b == c);
     }
 }
