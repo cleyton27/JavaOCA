@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter3.operators.strings;
+package com.ocaj.exam.tutorial.chapter3.strings;
 
 public class StringObjetcs {
 
