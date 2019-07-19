@@ -1,6 +1,7 @@
 package com.ocaj.exam.tutorial.chapter3.stringmethods;
 
 public class CharAt {
+
     public static void main(String[] args) {
 
         String pirateMessage = " Buried Treasure Chest! ";
