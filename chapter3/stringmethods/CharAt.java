@@ -16,6 +16,7 @@ public class CharAt {
         System.out.println(c4);
         char c5 = pirateMessage.charAt(12);
         System.out.println(c5);
-
+        char c6 = pirateMessage.charAt(9);
+        System.out.println(c6);
     }
 }
