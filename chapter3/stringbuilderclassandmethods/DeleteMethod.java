@@ -8,5 +8,7 @@ public class DeleteMethod {
         // characters between start and end.
         mateyMessage = new StringBuilder("Shiver Me Timbers!");
         System.out.println(mateyMessage.delete(6,16));
+        System.out.println();
+
     }
 }
