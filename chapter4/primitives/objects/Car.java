@@ -19,6 +19,10 @@ public class Car {
      */
 
     public static void main(String[] args) {
+        /*
+        new operator tells to JVM to use the blueprint to create a new
+        instance class, the result o which is an object
+         */
         Car bigCar =new Car(125, true);
         boolean running = bigCar.isRuning();
 
