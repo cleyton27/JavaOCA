@@ -9,8 +9,18 @@ public class Car {
         this.running = running;
     }
 
-    public boolean isRuning(){
+    public boolean isRunning(){
+
+
         return running;
+    }
+
+    public void isItRunning(){
+        boolean truOrFalse = isRunning();
+        if (truOrFalse == true){
+            System.out.println("your car is Running");
+        }else
+            System.out.println("your car isn't running");
     }
 
     /*
@@ -24,7 +34,7 @@ public class Car {
         instance class, the result o which is an object
          */
         Car bigCar =new Car(125, true);
-        boolean running = bigCar.isRuning();
+        boolean running = bigCar.isRunning();
 
         Car oldCar;
         /*
