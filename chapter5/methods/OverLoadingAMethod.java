@@ -69,5 +69,12 @@ public class OverLoadingAMethod {
         om.logInfo("Second log message");
     }
 
+    /*
+    A good design habit is to ensure that any overloaded methods behave in a
+similar manner. Your code will be confusing if two methods with the same
+identifier but different parameters have vastly different results
+     */
+
+
 }
 
