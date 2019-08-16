@@ -6,6 +6,17 @@ public class LoanDetails {
     private double rate;
     private double principal;
 
+    /*
+
+Another way to declare a constructor
+
+    public LoanDetails() {
+        this(180,0.25,0);
+    }
+
+
+     */
+
     public LoanDetails() {
         term =180;
         rate = .0265;
