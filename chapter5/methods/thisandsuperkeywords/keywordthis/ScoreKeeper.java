@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.thisandsuperkeywords;
+package com.ocaj.exam.tutorial.chapter5.methods.thisandsuperkeywords.keywordthis;
 
 public class ScoreKeeper {
 
