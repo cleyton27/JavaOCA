@@ -1,7 +1,5 @@
 package com.ocaj.exam.tutorial.chapter5.methods;
 
-import java.lang.reflect.Method;
-
 public class MethodBody {
 
     /* The method body is the main part of the method and contains all the code

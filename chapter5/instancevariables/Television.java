@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.instancevariables;
+package com.ocaj.exam.tutorial.chapter5.instancevariables;
 
 public class Television {
 

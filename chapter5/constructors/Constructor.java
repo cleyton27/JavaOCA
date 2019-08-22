@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.constructors;
+package com.ocaj.exam.tutorial.chapter5.constructors;
 
 public class Constructor {
 

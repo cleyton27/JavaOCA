@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.staticmethods;
+package com.ocaj.exam.tutorial.chapter5.staticmethods;
 
 import java.text.Format;
 import java.text.SimpleDateFormat;

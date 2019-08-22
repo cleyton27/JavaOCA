@@ -1,6 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.saticvariables;
-
-import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
+package com.ocaj.exam.tutorial.chapter5.saticvariables;
 
 public class ShippingPackage {
 

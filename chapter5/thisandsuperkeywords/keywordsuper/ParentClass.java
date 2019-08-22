@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.thisandsuperkeywords.keywordsuper;
+package com.ocaj.exam.tutorial.chapter5.thisandsuperkeywords.keywordsuper;
 
 public class ParentClass {
 

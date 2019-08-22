@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.localvariables;
+package com.ocaj.exam.tutorial.chapter5.localvariables;
 
 public class LocalVariables {
 

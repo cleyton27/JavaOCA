@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.saticvariables;
+package com.ocaj.exam.tutorial.chapter5.saticvariables;
 
 public class Constants {
 

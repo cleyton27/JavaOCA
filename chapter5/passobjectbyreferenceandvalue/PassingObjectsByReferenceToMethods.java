@@ -1,4 +1,4 @@
-package com.ocaj.exam.tutorial.chapter5.methods.passobjectbyreferenceandvalue;
+package com.ocaj.exam.tutorial.chapter5.passobjectbyreferenceandvalue;
 
 public class PassingObjectsByReferenceToMethods {
 
